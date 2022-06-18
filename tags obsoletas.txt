@@ -1,0 +1,12 @@
+Não usar estas tags:
+
+basefont
+big
+blink
+center
+font
+marquee
+multicol
+nobr
+spacer
+tt

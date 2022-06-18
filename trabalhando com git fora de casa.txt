@@ -1,0 +1,10 @@
+1 - File / options / accounts (sing in GitHub.com);
+2 - File / options / git (clicar na aba Name e clicar na aba Email e dps save.) obs: o nome e o email já irão aparecer preenchidos;
+
+Sair do GitHub desktop:
+1 - fechar o explorer;
+2 - fechar o VsCode;
+3 - Clicar em repository / remove / marcar => 'Alse move the repositry to recicle bin'.
+4 - Clicar em file / accounts / sing out
+3 - Clicar em file / git / apagar o nome e o email e salvar.
+4 - esvaziar a lixeira.

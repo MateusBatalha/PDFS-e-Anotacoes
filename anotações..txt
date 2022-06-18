@@ -1,0 +1,23 @@
+A linguagem HTMl é focada em conteúdo: Textos, imagens, tabelas, listas.
+
+CSS são os estilos, foco no desing no site: cores, sombras, tamanho, posicionamento.
+
+JavaScript é toda a interatividade do site: menus, animações, popups, validações.
+
+Estrutura basica do HTML:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	content="width=device-width,
+	initial-scale=1.0">
+	<title>Document</title>
+  </head> 
+  <body>
+    <h1>Olá, mundo!</h1>
+  </body>
+</html>
+
+	

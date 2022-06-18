@@ -1,0 +1,8 @@
+front-end (client-side) ou client sevice developer está relacionado 
+ao visual a parte interativa, em dar uma boa experiência para o usuário.
+
+back-end (serve-side) está relacionado ao servidor. 
+Focado no seu codigo e ferramentas do servidor, tudo que está por tras.
+
+Linguagens para bakc-end: PHP, JS(nodeJS. A tecnologia do JS para server-side é
+diferente do client-side apesar de ser a mesma linguagem.), C#, Phyton, Ruby e Java.
